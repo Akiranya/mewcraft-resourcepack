@@ -1,7 +1,0 @@
-{
-  "parent": "block/base/block_real",
-  "textures": {
-    "all": "itemsadder:block/mysterious_ore",
-    "particle": "itemsadder:block/mysterious_ore"
-  }
-}

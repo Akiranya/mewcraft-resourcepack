@@ -1,7 +1,0 @@
-{
-  "parent": "block/base/block_real",
-  "textures": {
-    "all": "itemsadder:block/aqua_aura_block",
-    "particle": "itemsadder:block/aqua_aura_block"
-  }
-}
