@@ -17,8 +17,6 @@ assets
  └ mimaru (装饰资源)
  └ custom_entity (ItemsAdder 生物模型)
  └ modelengine (ModelEngine 相关内容)
-README.md (你现在看到的)
-pack.mcmeta (资源包的元信息)
 ```
 
 ## Blockbench 开发事项
