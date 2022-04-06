@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/feather",
+  "textures": {
+    "layer0": "quests:item/gold_exclaimation_mark"
+  }
+}
