@@ -15,12 +15,6 @@ assets
  └ mimaru (装饰资源)
  └ custom_entity (ItemsAdder 生物模型)
  └ modelengine (ModelEngine 相关内容)
- └ quests (任务标记相关内容)
- └ shields (盾牌)
- └ pams (潘马斯相关内容)
- └ rpginventory (饰品栏GUI 相关内容)
- └ yass_furnitures (Yass 的家具)
- └ yass_itemshop (Yass 的售货架)
 README.md (你现在看到的)
 pack.mcmeta (资源包的元信息)
 ```
