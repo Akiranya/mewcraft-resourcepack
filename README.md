@@ -1,0 +1,1 @@
+# mewcraft-resourcepack
